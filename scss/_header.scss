@@ -26,4 +26,16 @@
     &__nav-item+&__nav-item {
         margin-left: 45px;
     }
+
+    &__nav-link {
+        font-family: $secondery-font;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 18px;
+        text-transform: capitalize;
+        $accent: #DC0000;
+
+
+    }
+
 }
